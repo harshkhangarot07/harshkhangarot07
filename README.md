@@ -11,7 +11,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,cpp,docker,express,github,mongodb,nextjs,nodejs,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
