@@ -19,12 +19,12 @@
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Building server-side applications with MERN stack.
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+-coming soon ...
 
 
 ## 📬 Get in Touch
